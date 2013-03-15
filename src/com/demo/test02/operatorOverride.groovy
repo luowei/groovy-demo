@@ -1,4 +1,5 @@
 #!groovy
+package com.demo.test02
 
 //允许相同货币构成的Money可以相加，而不同货币构成的Money不能相加
 
